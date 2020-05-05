@@ -6,3 +6,10 @@ To run this program, you need to download the dataset https://www.kaggle.com/pau
 
 Because the random seed and the running environment are different each time, the outputs have some difference in each running. That is why the outputs are differentfrom our ipython and PPT.
 
+Our group include: Junhui Liao ,Hanxin Hu and Shahana Rahaman. The indivdual responsibility:
+	Liao: Construct four different CNN models, including VGG16, VGG13, Alexnet without two different dropout rates; 
+
+	Hanxin: Data preparation and processing, organize discussion as well as combine slides;
+
+	Shahana: Use data augmentation and CNN Resnet50 to improve out-of-sample performance.
+
